@@ -8,7 +8,7 @@ name = "Iakobi"
 surname = "tatrishvili"
 
 name = "Guram"
-surname = "vaktangishvili"
+surname = "vaktangashvili"
 
 name = "Luka"
 surname = "Gurgenidze"

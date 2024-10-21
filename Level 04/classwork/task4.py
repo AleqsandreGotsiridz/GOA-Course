@@ -12,7 +12,7 @@ name = "Luka"
 name = "Giorgi"
 name = "Gocha"
 
-"integar"-"ტიპის ცვლადი"
+"integer"-"ტიპის ცვლადი"
 age = 12
 age = 15
 age = 13
